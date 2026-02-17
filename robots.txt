@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stlouisparkplumbingco.com/sitemap.xml
